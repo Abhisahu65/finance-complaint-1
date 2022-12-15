@@ -4,6 +4,7 @@
 
 ## WorkFLow setup
 ### Step-1
+#8
 Setup secrets 
 ```bash
 
@@ -92,3 +93,6 @@ docker-compose up
 ```
 docker-compose down
 ``` 
+
+
+#just for checking 
